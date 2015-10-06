@@ -39,6 +39,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [How to Fix the ES6 `class` Keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf)
 - [Introducing the Stamp Specification -- Move Over, `class`: Composable Factory Functions Are Here](https://medium.com/javascript-scene/introducing-the-stamp-specification-77f8911c2fee)
 - [Javascript OO Without Constructors](http://tobyho.com/2012/10/21/javascript-OO-without-constructors/)
+- [JS Objects: Distractions](http://davidwalsh.name/javascript-objects-distractions)
 - [JS Objects: Inherited a Mess](http://davidwalsh.name/javascript-objects)
 - [Myth: JavaScript Needs Classes](http://www.2ality.com/2011/11/javascript-classes.html)
 - [The Many Talents of JavaScript for Generalizing Role Oriented Programming Approaches Like Traits and Mixins](http://peterseliger.blogspot.de/2014/04/the-many-talents-of-javascript.html#the-many-talents-of-javascript)
