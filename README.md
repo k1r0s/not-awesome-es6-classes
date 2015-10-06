@@ -39,9 +39,9 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [How to Fix the ES6 `class` keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf)
 - [Introducing the Stamp Specification -- Move Over, `class`: Composable Factory Functions Are Here](https://medium.com/javascript-scene/introducing-the-stamp-specification-77f8911c2fee)
 - [Javascript OO Without Constructors](http://tobyho.com/2012/10/21/javascript-OO-without-constructors/)
+- [The Many Talents of JavaScript for Generalizing Role Oriented Programming Approaches Like Traits and Mixins](http://peterseliger.blogspot.de/2014/04/the-many-talents-of-javascript.html#the-many-talents-of-javascript)
 - [The Two Pillars of JavaScript -- Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 - [Think twice about ES6 classes](http://christianalfoni.github.io/javascript/2015/01/01/think-twice-about-classes.html)
-- [The many talents of JavaScript for generalizing Role Oriented Programming approaches like Traits and Mixins](http://peterseliger.blogspot.de/2014/04/the-many-talents-of-javascript.html#the-many-talents-of-javascript)
 
 ## Videos
 
@@ -53,7 +53,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [Nordic.js 2014 • Douglas Crockford - The Better Parts](https://www.youtube.com/watch?v=PSGEjv3Tqo0)
 - [Source Decoded 3: Javascript -- Prototypes, Prototypal Inheritance done right.](https://www.youtube.com/watch?v=Yvf_kUBZmXg)
 
-# Contribution Guidelines
+## Contribution Guidelines
 
 Please, ensure your pull request adheres to the following guidelines:
 
