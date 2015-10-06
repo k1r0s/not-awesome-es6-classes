@@ -46,7 +46,8 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 ## Videos
 
 - [Ashley Williams: If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
-- [Composition over inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+- [Composition Over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+- [Composition vs. Inheritance](https://www.youtube.com/watch?v=dYUZiJEy0JE)
 - [Douglas Crockford: The Better Parts - JSConfUY 2014](https://www.youtube.com/watch?v=bo36MrBfTk4)
 - [Factory Functions in JavaScript](https://www.youtube.com/watch?v=ImwrezYhw4w)
 - [Fluent 2013 - Eric Elliott, "Classical Inheritance is Obsolete: How to Think in Prototypal OO"](https://www.youtube.com/watch?v=lKCCZTUx0sI)
