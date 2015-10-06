@@ -40,7 +40,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [Introducing the Stamp Specification -- Move Over, `class`: Composable Factory Functions Are Here](https://medium.com/javascript-scene/introducing-the-stamp-specification-77f8911c2fee)
 - [Javascript OO Without Constructors](http://tobyho.com/2012/10/21/javascript-OO-without-constructors/)
 - [JS Objects: Inherited a Mess](http://davidwalsh.name/javascript-objects)
-- [Myth: JavaScript Needs Classes](http://www.gopherjs.org/blog/2015/09/28/surprises-in-gopherjs-performance/)
+- [Myth: JavaScript Needs Classes](http://www.2ality.com/2011/11/javascript-classes.html)
 - [The Many Talents of JavaScript for Generalizing Role Oriented Programming Approaches Like Traits and Mixins](http://peterseliger.blogspot.de/2014/04/the-many-talents-of-javascript.html#the-many-talents-of-javascript)
 - [The Two Pillars of JavaScript -- Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 - [Think Twice About ES6 Classes](http://christianalfoni.github.io/javascript/2015/01/01/think-twice-about-classes.html)
