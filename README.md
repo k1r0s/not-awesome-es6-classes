@@ -45,7 +45,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 
 ## Videos
 
-- [Ashley Williams: If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
+- [Ashley Williams: If You Wish to Learn ES6/2015 From Scratch, You Must First Invent the Universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
 - [Composition Over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 - [Composition vs. Inheritance](https://www.youtube.com/watch?v=dYUZiJEy0JE)
 - [Douglas Crockford: The Better Parts - JSConfUY 2014](https://www.youtube.com/watch?v=bo36MrBfTk4)
