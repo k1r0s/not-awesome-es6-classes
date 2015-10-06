@@ -52,7 +52,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [Factory Functions in JavaScript](https://www.youtube.com/watch?v=ImwrezYhw4w)
 - [Fluent 2013 - Eric Elliott, "Classical Inheritance is Obsolete: How to Think in Prototypal OO"](https://www.youtube.com/watch?v=lKCCZTUx0sI)
 - [Nordic.js 2014 • Douglas Crockford - The Better Parts](https://www.youtube.com/watch?v=PSGEjv3Tqo0)
-- [Source Decoded 3: Javascript -- Prototypes, Prototypal Inheritance done right.](https://www.youtube.com/watch?v=Yvf_kUBZmXg)
+- [Source Decoded 3: Javascript -- Prototypes, Prototypal Inheritance Done Right](https://www.youtube.com/watch?v=Yvf_kUBZmXg)
 
 ## Contribution Guidelines
 
