@@ -71,7 +71,6 @@ Please, ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
 - Use the following format: `[Content Title](content link)`
-- Choose corresponding section (Reading, Videos, etc.) for your suggestion. 
 - New categories or improvements to the existing categorization are welcome. I would like to add a Tutorials/Examples section at some point. Feel free to get started on that if you have the time.
 - The pull request and commit should have clear and useful titles.
 - Each section's list, after your addition, should be sorted alphabetically.
