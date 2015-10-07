@@ -15,16 +15,16 @@ Reverse-inspired by all of the awesome lists on GitHub, like [Awesome](https://g
 
 ## Introduction
 
-While ES6 brings several useful and syntactically pleasing new features to JavaScript, there are many people in the JS community who feel that adding class syntax to the language was a mistake. I share this sentiment, but I have encountered quite a few programmers in the wild who don't agree or simply don't seem to understand why some of us have this opinion. So, I wanted to create an online reference where people could come to learn specifically about this issue and why they might not actually need class syntax in JavaScript.
+While ES6 brings several useful and syntactically pleasing new features to JavaScript, there are many people in the JS community who feel that adding class syntax to the language was a mistake. I share this sentiment, but I have encountered quite a few programmers in the wild who don't agree or simply don't seem to understand why some of us have this opinion. So, I wanted to create an online reference where people could come to learn specifically about this issue and why they __might not actually need__ class syntax in JavaScript.
 
 ## TLDR
 
-- JavaScript is a class-free, object-oriented, & functional programming language. It eschews [classical inheritance](https://en.wikipedia.org/wiki/Class-based_programming) in favor of [prototypal inheritance](https://en.wikipedia.org/wiki/Prototype-based_programming).
-- Many believe prototypal inheritance to be more flexible and freeing than classical inheritance due to its less rigid nature.
-- The ES6 class syntax, constructors, the `new` keyword, etc. are ideas taken from the classical inheritance model to make programmers coming from languages like C++, Java, C#, etc. more comfortable and do not really belong in JavaScript.
-- While prototypal inheritance is very powerful in its own right, there is a growing movement among developers, both within and outside of the JS community (Ex: [Composition in Golang](https://talks.golang.org/2012/splash.article#TOC_15.)), to shift away from inheritance in favor of object composition. 
-- ES6 class syntax is essentially syntactic sugar that will end up obfuscating the true nature of JavaScript and confusing the next generation of programmers learning it.
-- Instead of ES6 classes, you should consider factory functions, object composition, and/or prototypal inheritance via the use of prototypes, object literals, Object.create(), Object.assign(), etc. while avoiding constructors and the `new` keyword altogether.
+`DISCLAIMER: This is an opinionated summary of the core points made throughout the linked content. I am only providing this as a convenience for people who requested it. If you're looking for technical depth, skip this section. Please, take the time to dive into the content before drawing any conclusions.`
+
+- JavaScript is a class-free, object-oriented, & functional programming language. It eschews [classical inheritance](https://en.wikipedia.org/wiki/Class-based_programming) in favor of [prototypal inheritance](https://en.wikipedia.org/wiki/Prototype-based_programming). Although it is possible to emulate classical inheritance patterns in JS, classical inheritance is not built directly into the language, and many people believe prototypal inheritance to be a more flexible and freeing paradigm due to its less rigid nature. For more, first, read [this](http://www.crockford.com/javascript/inheritance.html). Then, read [this](http://javascript.crockford.com/prototypal.html).
+- The ES6 class syntax, constructors, the `new` keyword, etc. are ideas taken from the classical inheritance model to make programmers coming from languages like C++, Java, C#, etc. more comfortable and do not really belong in JavaScript. ES6 class syntax is essentially syntactic sugar that will end up obfuscating the true nature of JavaScript and confusing the next generation of programmers learning it.
+- While prototypal inheritance is very powerful in its own right, it is important to know that there is a growing movement among developers, both within and outside of the JS community (Ex: [Composition in Golang](https://talks.golang.org/2012/splash.article#TOC_15.)), to shift away from inheritance in favor of object composition. 
+- Whether you choose to use prototypal inheritance, object composition, or some combination of the two, you should __consider__ factory functions, object literals, prototypes, Object.create(), Object.assign(), etc. while avoiding ES6 classes, constructors, and the `new` keyword altogether.
 
 > If a feature is sometimes dangerous, and there is a better option, then always use the better option. 
 > &mdash; Douglas Crockford
@@ -44,6 +44,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [JS Objects -- Part 2: Distractions](http://davidwalsh.name/javascript-objects-distractions)
 - [JS Objects -- Part 3: De"construct"ion](http://davidwalsh.name/javascript-objects-deconstruction)
 - [Myth: JavaScript Needs Classes](http://www.2ality.com/2011/11/javascript-classes.html)
+- [Prototypal Inheritance in JavaScript (Douglas Crockford)](http://javascript.crockford.com/prototypal.html)
 - [The Many Talents of JavaScript for Generalizing Role Oriented Programming Approaches Like Traits and Mixins](http://peterseliger.blogspot.de/2014/04/the-many-talents-of-javascript.html#the-many-talents-of-javascript)
 - [The Two Pillars of JavaScript -- Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 - [Think Twice About ES6 Classes](http://christianalfoni.github.io/javascript/2015/01/01/think-twice-about-classes.html)
