@@ -4,6 +4,8 @@ A curated list of resources on why ES6 (aka ES2015) classes are NOT awesome
 
 Reverse-inspired by all of the awesome lists on GitHub, like [Awesome](https://github.com/sindresorhus/awesome), [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness), [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript), [Awesome React](https://github.com/enaqx/awesome-react), [Awesome Go](https://github.com/avelino/awesome-go), [Awesome Elm](https://github.com/isRuslan/awesome-elm), etc.
 
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -14,9 +16,13 @@ Reverse-inspired by all of the awesome lists on GitHub, like [Awesome](https://g
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
+
+
 ## Introduction
 
 While ES6 brings several useful and syntactically pleasing new features to JavaScript, there are many people in the JS community who feel that adding class syntax to the language was a mistake. I share this sentiment, but I have encountered quite a few programmers in the wild who don't agree or simply don't seem to understand why some of us have this opinion. So, I wanted to create an online reference where people could come to learn specifically about this issue and why they __might not actually need__ class syntax in JavaScript.
+
+
 
 ## TLDR
 
@@ -30,9 +36,10 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 > If a feature is sometimes dangerous, and there is a better option, then always use the better option. 
 > &mdash; Douglas Crockford
 
+
+
 ## Reading
 
-- [A Simple Challenge to Classical Inheritance Fans](https://medium.com/javascript-scene/a-simple-challenge-to-classical-inheritance-fans-e78c2cf5eead)
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 - [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
 - [Composition Over Inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205)
@@ -53,6 +60,8 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [Web Reflection: Better JavaScript Classes](http://webreflection.blogspot.com/2010/01/better-javascript-classes.html)
 - [Web Reflection: \[ES5\] Classes As Descriptor Objects](http://webreflection.blogspot.com/2010/01/es5-es5-classes-as-descriptor-objects.html)
 
+
+
 ## Videos
 
 - [Ashley Williams: If You Wish to Learn ES6/2015 From Scratch, You Must First Invent the Universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
@@ -64,6 +73,8 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [Nordic.js 2014 • Douglas Crockford - The Better Parts](https://www.youtube.com/watch?v=PSGEjv3Tqo0)
 - [Source Decoded: Composition vs. Inheritance](https://www.youtube.com/watch?v=dYUZiJEy0JE)
 - [Source Decoded 3: Javascript -- Prototypes, Prototypal Inheritance Done Right](https://www.youtube.com/watch?v=Yvf_kUBZmXg)
+
+
 
 ## ES6 Classes in React
 #### A Reasonable, Limited Approach to Using ES6 Class Syntax in React
@@ -92,6 +103,7 @@ Also, read Dan's previous article on composition:
 [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750)
 
 
+
 ## Contribution Guidelines
 
 Please, ensure your pull request adheres to the following guidelines:
@@ -103,6 +115,8 @@ Please, ensure your pull request adheres to the following guidelines:
 - New categories or improvements to the existing categorization are welcome. I would like to add a Tutorials/Examples section at some point. Feel free to get started on that if you have the time.
 - The pull request and commit should have clear and useful titles.
 - Each section's list, after your addition, should be sorted alphabetically.
+
+
 
 ## License
 
