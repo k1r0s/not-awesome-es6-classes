@@ -66,11 +66,11 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [Source Decoded 3: Javascript -- Prototypes, Prototypal Inheritance Done Right](https://www.youtube.com/watch?v=Yvf_kUBZmXg)
 
 ## ES6 Classes in React
-### A Reasonable, Limited Approach to Using ES6 Class Syntax in React
+#### A Reasonable, Limited Approach to Using ES6 Class Syntax in React
 
 Dan Abramov (creator of [react-hot-loader](https://github.com/gaearon/react-hot-loader), [react-dnd](https://github.com/gaearon/react-dnd), [redux](https://github.com/rackt/redux), and [redux-devtools](https://github.com/gaearon/redux-devtools)) has written an article on how to approach the use of ES6 classes in React in a limited & controlled way:
 
-- [How to Use Classes and Sleep at Night](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4)
+[How to Use Classes and Sleep at Night](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4)
 
 I'm not convinced that using ES6 class syntax in this fashion is the best long term approach, but Dan has established a solid, reasonable set of guidelines to follow in the meantime:
 
