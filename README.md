@@ -68,12 +68,13 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
 - [Programming JavaScript Applications](http://shop.oreilly.com/product/0636920033141.do)
 - You Don't Know JavaScript (series)
-    - ["Up & Going"](up & going/README.md#you-dont-know-js-up--going), Published: [Buy Now](http://shop.oreilly.com/product/0636920039303.do), ebook format is free!
-    - ["Scope & Closures"](scope & closures/README.md#you-dont-know-js-scope--closures), Published: [Buy Now](http://shop.oreilly.com/product/0636920026327.do)
-    - ["this & Object Prototypes"](this & object prototypes/README.md#you-dont-know-js-this--object-prototypes), Published: [Buy Now](http://shop.oreilly.com/product/0636920033738.do)
-    - ["Types & Grammar"](types & grammar/README.md#you-dont-know-js-types--grammar), Published: [Buy Now](http://shop.oreilly.com/product/0636920033745.do)
-    - ["Async & Performance"](async & performance/README.md#you-dont-know-js-async--performance), Published: [Buy Now](http://shop.oreilly.com/product/0636920033752.do)
-    - ["ES6 & Beyond"](es6 & beyond/README.md#you-dont-know-js-es6--beyond), Published: [Buy Now](http://shop.oreilly.com/product/0636920033769.do)
+    - ["Up & Going"](http://shop.oreilly.com/product/0636920039303.do)
+    - ["Scope & Closures"](http://shop.oreilly.com/product/0636920026327.do)
+    - ["this & Object Prototypes"](http://shop.oreilly.com/product/0636920033738.do)
+    - ["Types & Grammar"](http://shop.oreilly.com/product/0636920033745.do)
+    - ["Async & Performance"](http://shop.oreilly.com/product/0636920033752.do)
+    - ["ES6 & Beyond"](http://shop.oreilly.com/product/0636920033769.do)
+
 ## Videos
 
 - [Ashley Williams: If You Wish to Learn ES6/2015 From Scratch, You Must First Invent the Universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
