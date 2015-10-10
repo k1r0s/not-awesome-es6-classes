@@ -83,7 +83,7 @@ Dan Abramov (creator of [react-hot-loader](https://github.com/gaearon/react-hot-
 
 [How to Use Classes and Sleep at Night](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4)
 
-I'm not convinced that using ES6 class syntax in this fashion is the best long term solution, but Dan has established a solid, reasonable set of guidelines to follow in the meantime:
+I'm not convinced that using ES6 class syntax in this fashion is the best long term solution for React, but Dan has established a solid, reasonable set of guidelines to follow in the meantime. If you feel that you must use ES6 classes to create React componenets, please follow his lead:
 
 __Key Points__
 - Resist making classes your public API.
