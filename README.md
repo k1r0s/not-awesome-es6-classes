@@ -72,7 +72,7 @@ Dan Abramov (creator of [react-hot-loader](https://github.com/gaearon/react-hot-
 
 [How to Use Classes and Sleep at Night](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4)
 
-I'm not convinced that using ES6 class syntax in this fashion is the best long term approach, but Dan has established a solid, reasonable set of guidelines to follow in the meantime:
+I'm not convinced that using ES6 class syntax in this fashion is the best long term solution, but Dan has established a solid, reasonable set of guidelines to follow in the meantime:
 
 __Key Points__
 - Resist making classes your public API.
@@ -86,6 +86,11 @@ __Recommendations__
 - Use ES6 classes for components if you need the state or lifecycle hooks.
 - In this case, you may only extend React.Component directly.
 - Give your feedback to the React team on the functional [state](https://github.com/reactjs/react-future/tree/master/07%20-%20Returning%20State) [proposals](https://github.com/reactjs/react-future/tree/master/09%20-%20Reduce%20State).
+
+Also, read Dan's previous article on composition:
+
+[Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750)
+
 
 ## Contribution Guidelines
 
