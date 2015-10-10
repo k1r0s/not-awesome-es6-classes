@@ -10,6 +10,7 @@ Reverse-inspired by all of the awesome lists on GitHub, like [Awesome](https://g
 - [Too Long; Didn't Read](#tldr)
 - [Reading](#reading)
 - [Videos](#videos)
+- [ES6 Classes in React](#es6-classes-in-react)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
@@ -63,6 +64,28 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [Nordic.js 2014 • Douglas Crockford - The Better Parts](https://www.youtube.com/watch?v=PSGEjv3Tqo0)
 - [Source Decoded: Composition vs. Inheritance](https://www.youtube.com/watch?v=dYUZiJEy0JE)
 - [Source Decoded 3: Javascript -- Prototypes, Prototypal Inheritance Done Right](https://www.youtube.com/watch?v=Yvf_kUBZmXg)
+
+## ES6 Classes in React
+### A Reasonable, Limited Approach to Using ES6 Class Syntax in React
+
+Dan Abramov (creator of [react-hot-loader](https://github.com/gaearon/react-hot-loader), [react-dnd](https://github.com/gaearon/react-dnd), [redux](https://github.com/rackt/redux), and [redux-devtools](https://github.com/gaearon/redux-devtools)) has written an article on how to approach the use of ES6 classes in React in a limited & controlled way:
+
+- [How to Use Classes and Sleep at Night](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4)
+
+I'm not convinced that using ES6 class syntax in this fashion is the best long term approach, but Dan has established a solid, reasonable set of guidelines to follow in the meantime:
+
+__Key Points__
+- Resist making classes your public API.
+- Don’t inherit more than once.
+- Don’t expect people to use your classes.
+- Learn functional programming.
+
+__Recommendations__
+- You can use class in your JS if you don’t inherit twice and don’t use super.
+- Prefer to write React components as pure functions when possible.
+- Use ES6 classes for components if you need the state or lifecycle hooks.
+- In this case, you may only extend React.Component directly.
+- Give your feedback to the React team on the functional [state](https://github.com/reactjs/react-future/tree/master/07%20-%20Returning%20State) [proposals](https://github.com/reactjs/react-future/tree/master/09%20-%20Reduce%20State).
 
 ## Contribution Guidelines
 
