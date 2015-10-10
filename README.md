@@ -13,6 +13,7 @@ Reverse-inspired by all of the awesome lists on GitHub, like [Awesome](https://g
 - [Reading](#reading)
 - [Videos](#videos)
 - [ES6 Classes in React](#es6-classes-in-react)
+- [People You Should Follow](#people-you-should-follow)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
@@ -104,20 +105,6 @@ Also, read Dan's previous article on composition:
 
 
 
-## Contribution Guidelines
-
-Please, ensure your pull request adheres to the following guidelines:
-
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make an individual pull request for each suggestion.
-- Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
-- Use the following format: `[Content Title](content link)`
-- New categories or improvements to the existing categorization are welcome. I would like to add a Tutorials/Examples section at some point. Feel free to get started on that if you have the time.
-- The pull request and commit should have clear and useful titles.
-- Each section's list, after your addition, should be sorted alphabetically.
-
-
-
 ## People You Should Follow
 
 - Dan Abramov
@@ -140,6 +127,20 @@ Please, ensure your pull request adheres to the following guidelines:
 		- Medium: [@mpjme](https://medium.com/@mpjme)
 		- Twitter: [@mpjme](https://twitter.com/@mpjme)
 		- YouTube Channel: [mpjme](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+
+
+
+## Contribution Guidelines
+
+Please, ensure your pull request adheres to the following guidelines:
+
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Make an individual pull request for each suggestion.
+- Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
+- Use the following format: `[Content Title](content link)`
+- New categories or improvements to the existing categorization are welcome. I would like to add a Tutorials/Examples section at some point. Feel free to get started on that if you have the time.
+- The pull request and commit should have clear and useful titles.
+- Each section's list, after your addition, should be sorted alphabetically.
 
 
 
