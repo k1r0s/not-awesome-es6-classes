@@ -111,7 +111,7 @@ Also, read Dan's previous article on composition:
 
 - Dan Abramov
     - GitHub: [gaeron](https://github.com/gaearon)
-- Medium: [@dan_abramov](https://medium.com/@dan_abramov)
+		- Medium: [@dan_abramov](https://medium.com/@dan_abramov)
 		- Twitter: [@dan_abramov](https://twitter.com/dan_abramov)
 - Douglas Crockford
     - GitHub: [douglascrockford](https://github.com/douglascrockford)
