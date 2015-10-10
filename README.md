@@ -118,6 +118,31 @@ Please, ensure your pull request adheres to the following guidelines:
 
 
 
+## People You Should Follow
+
+- Dan Abramov
+    - GitHub: [gaeron](https://github.com/gaearon)
+		- Medium: [@dan_abramov](https://medium.com/@dan_abramov)
+		- Twitter: [@dan_abramov](https://twitter.com/dan_abramov)
+- Douglas Crockford
+    - GitHub: [douglascrockford](https://github.com/douglascrockford)
+		- Website: [Douglas Crockford's Wrrrld Wide Web](http://www.crockford.com/)
+- Eric Elliott
+    - GitHub: [ericelliott](https://github.com/ericelliott)
+		- Medium: [@_ericelliott](https://medium.com/@_ericelliott) & [JavaScript Scene](https://medium.com/javascript-scene)
+		- Twitter:[@_ericelliott](https://twitter.com/@_ericelliott)
+- Kyle Simpson
+    - GitHub: [getify](https://github.com/getify)
+		- Medium: [@getify](https://medium.com/@getify)
+		- Twitter: [@getify](https://twitter.com/@getify)
+- Mattias P Johansson
+    - GitHub: [mpj](https://github.com/mpj)
+		- Medium: [@mpjme](https://medium.com/@mpjme)
+		- Twitter: [@mpjme](https://twitter.com/@mpjme)
+		- YouTube Channel: [mpjme](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+
+
+
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
