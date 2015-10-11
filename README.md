@@ -63,7 +63,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [Think Twice About ES6 Classes](http://christianalfoni.github.io/javascript/2015/01/01/think-twice-about-classes.html)
 - [Web Reflection: Better JavaScript Classes](http://webreflection.blogspot.com/2010/01/better-javascript-classes.html)
 - [Web Reflection: \[ES5\] Classes As Descriptor Objects](http://webreflection.blogspot.com/2010/01/es5-es5-classes-as-descriptor-objects.html)
-- [We Don’t Need a Standard for Single Inheritance. Single Inheritance Taxonomies Are an Anti-pattern.](https://medium.com/@_ericelliott/we-don-t-need-a-standard-for-single-inheritance-single-inheritance-taxonomies-are-an-anti-pattern-5d58ad7107d0)
+- [We Don’t Need a Standard for Single Inheritance. Single Inheritance Taxonomies Are an Anti-Pattern.](https://medium.com/@_ericelliott/we-don-t-need-a-standard-for-single-inheritance-single-inheritance-taxonomies-are-an-anti-pattern-5d58ad7107d0)
 
 #### Books
 
