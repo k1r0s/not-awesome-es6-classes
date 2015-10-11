@@ -50,6 +50,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [Delegation vs Inheritance in JavaScript](https://javascriptweblog.wordpress.com/2010/12/22/delegation-vs-inheritance-in-javascript)
 - [Factory Functions in JavaScript](https://medium.com/humans-create-software/factory-functions-in-javascript-video-d38e49802555)
 - [How to Fix the ES6 `class` Keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf)
+- [Inside the Dev Team Death Spiral](https://medium.com/javascript-scene/inside-the-dev-team-death-spiral-6a7ea255467b)
 - [Introducing the Stamp Specification -- Move Over, `class`: Composable Factory Functions Are Here](https://medium.com/javascript-scene/introducing-the-stamp-specification-77f8911c2fee)
 - [Javascript OO Without Constructors](http://tobyho.com/2012/10/21/javascript-OO-without-constructors/)
 - [JS Objects -- Part 1: Inherited a Mess](http://davidwalsh.name/javascript-objects)
@@ -62,6 +63,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [Think Twice About ES6 Classes](http://christianalfoni.github.io/javascript/2015/01/01/think-twice-about-classes.html)
 - [Web Reflection: Better JavaScript Classes](http://webreflection.blogspot.com/2010/01/better-javascript-classes.html)
 - [Web Reflection: \[ES5\] Classes As Descriptor Objects](http://webreflection.blogspot.com/2010/01/es5-es5-classes-as-descriptor-objects.html)
+- [We Don’t Need a Standard for Single Inheritance. Single Inheritance Taxonomies Are an Anti-pattern.](https://medium.com/@_ericelliott/we-don-t-need-a-standard-for-single-inheritance-single-inheritance-taxonomies-are-an-anti-pattern-5d58ad7107d0)
 
 #### Books
 
