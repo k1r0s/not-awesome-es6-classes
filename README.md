@@ -102,7 +102,7 @@ Dan Abramov (creator of [react-hot-loader](https://github.com/gaearon/react-hot-
 
 [How to Use Classes and Sleep at Night](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4)
 
-I'm __not convinced that using ES6 class syntax in this fashion is the best long term solution for React__, and you should __be aware of the__: __React.createClass()__, __[react-stampit](https://github.com/stampit-org/react-stampit)__, and __pure (stateless) functions__. However, Dan has established a solid, __reasonable set of guidelines__ to follow in the meantime. So, if you feel that you __must use ES6 classes__ to create React components, please __follow his lead__:
+I'm __not convinced__ that using ES6 class syntax in this fashion is the best __long term solution__ for React, and you should __be aware__ of the __alternatives__: __React.createClass()__, __[react-stampit](https://github.com/stampit-org/react-stampit)__, and __pure (stateless) functions__. However, Dan has established a solid, __reasonable set of guidelines__ to follow in the meantime. So, if you feel that you __must use ES6 classes__ to create React components, please __follow his lead__:
 
 __Key Points__
 - Resist making classes your public API.
