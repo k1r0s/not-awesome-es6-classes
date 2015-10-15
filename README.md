@@ -60,6 +60,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [Prototypal Inheritance in JavaScript (Douglas Crockford)](http://javascript.crockford.com/prototypal.html)
 - [The Many Talents of JavaScript for Generalizing Role Oriented Programming Approaches Like Traits and Mixins](http://peterseliger.blogspot.de/2014/04/the-many-talents-of-javascript.html#the-many-talents-of-javascript)
 - [The Two Pillars of JavaScript -- Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
+- [The Open Minded Explorer’s Guide to Object Composition](https://medium.com/javascript-scene/the-open-minded-explorer-s-guide-to-object-composition-88fe68961bed)
 - [Think Twice About ES6 Classes](http://christianalfoni.github.io/javascript/2015/01/01/think-twice-about-classes.html)
 - [Web Reflection: Better JavaScript Classes](http://webreflection.blogspot.com/2010/01/better-javascript-classes.html)
 - [Web Reflection: \[ES5\] Classes As Descriptor Objects](http://webreflection.blogspot.com/2010/01/es5-es5-classes-as-descriptor-objects.html)
