@@ -102,7 +102,7 @@ Dan Abramov (creator of [react-hot-loader](https://github.com/gaearon/react-hot-
 
 [How to Use Classes and Sleep at Night](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4)
 
-I'm __not convinced that using ES6 class syntax in this fashion is the best long term solution for React__, and you should __be aware of the alternatives: React.createClass(), stateless functions, and [react-stampit](https://github.com/stampit-org/react-stampit)__. However, Dan has established a solid, __reasonable set of guidelines__ to follow in the meantime. __So, if you feel that you must use ES6 classes to create React components, please follow his lead:__
+I'm __not convinced that using ES6 class syntax in this fashion is the best long term solution for React__, and you should __be aware of the__: __React.createClass()__, __[react-stampit](https://github.com/stampit-org/react-stampit)__, and __pure (stateless) functions__. However, Dan has established a solid, __reasonable set of guidelines__ to follow in the meantime. So, if you feel that you __must use ES6 classes__ to create React components, please __follow his lead__:
 
 __Key Points__
 - Resist making classes your public API.
@@ -116,6 +116,8 @@ __Recommendations__
 - Use ES6 classes for components if you need the state or lifecycle hooks.
 - In this case, you may only extend React.Component directly.
 - Give your feedback to the React team on the functional [state](https://github.com/reactjs/react-future/tree/master/07%20-%20Returning%20State) [proposals](https://github.com/reactjs/react-future/tree/master/09%20-%20Reduce%20State).
+
+With that said, we should think about why needing to use `class` and `extends` in such a limited fashion, in order to establish sane & maintainable practices for the specific purpose of creating a React Component (through 1-level deep inheritance), is necessary in the first place. It probably means that there should be a better solution and/or a better syntactical approach to solving this problem. I’d like to see a syntax focusing on what the conceptual thing actually is, a __Component__ rather than a __class__… For example, why was __createClass()__ not originally named __createComponent()__?
 
 Also, read Dan's previous article on composition:
 
