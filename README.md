@@ -117,7 +117,7 @@ __Recommendations__
 - In this case, you may only extend React.Component directly.
 - Give your feedback to the React team on the functional [state](https://github.com/reactjs/react-future/tree/master/07%20-%20Returning%20State) [proposals](https://github.com/reactjs/react-future/tree/master/09%20-%20Reduce%20State).
 
-With that said, we should think about why needing to use `class` and `extends` in such a limited fashion, in order to establish sane & maintainable practices for the specific purpose of creating a React Component (through 1-level deep inheritance), is necessary in the first place. It probably means that there should be a better solution and/or a better syntactical approach to solving this problem. I’d like to see a syntax focusing on what the conceptual thing actually is, a __component__ rather than a __class__… For example, why was __createClass()__ not originally named __createComponent()__?
+With that said, we should think about why needing to use `class` and `extends` in such a limited fashion, in order to establish sane & maintainable practices for the specific purpose of creating a React Component (through 1-level deep inheritance), is necessary in the first place. It probably means that there should be a better solution and/or a better syntactical approach to solving this problem. I’d like to see a syntax focusing on what the conceptual thing actually is, i.e., a __component__, not a __class__… For example, why was __createClass()__ not originally named __createComponent()__?
 
 Also, read Dan's previous article on composition:
 
