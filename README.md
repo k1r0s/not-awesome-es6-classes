@@ -21,7 +21,7 @@ Reverse-inspired by all of the awesome lists on GitHub, like [Awesome](https://g
 
 ## Introduction
 
-While ES6 brings several useful and syntactically pleasing new features to JavaScript, there are many people in the JS community who feel that adding class syntax to the language was a mistake. I share this sentiment, but I have encountered quite a few programmers in the wild who don't agree or simply don't seem to understand why some of us have this opinion. So, I wanted to create an online reference where people could come to learn specifically about this issue and why they __might not actually need__ class syntax in JavaScript.
+While ES6 brings several useful and syntactically pleasing new features to JavaScript, there are many people in the JS community who feel that adding class syntax to the language was a mistake. I share this sentiment, but I have encountered quite a few programmers in the wild who don't agree or simply don't seem to understand why some of us have this opinion. So, I wanted to create an online reference where people could come to learn specifically about this issue and why they __might not actually need class syntax in JavaScript__.
 
 
 
@@ -32,7 +32,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - JavaScript is a class-free, object-oriented, & functional programming language. It eschews [classical inheritance](https://en.wikipedia.org/wiki/Class-based_programming) in favor of [prototypal inheritance](https://en.wikipedia.org/wiki/Prototype-based_programming). Although it is possible to emulate classical inheritance patterns in JS, classical inheritance is not built directly into the language, and many people believe prototypal inheritance to be a more flexible and freeing paradigm due to its less rigid nature. For more, first, read [this](http://www.crockford.com/javascript/inheritance.html). Then, read [this](http://javascript.crockford.com/prototypal.html).
 - The ES6 class syntax, constructors, the `new` keyword, etc. are ideas taken from the classical inheritance model to make programmers coming from languages like C++, Java, C#, etc. more comfortable and do not really belong in JavaScript. ES6 class syntax is essentially syntactic sugar that will end up obfuscating the true nature of JavaScript and confusing the next generation of programmers learning it.
 - While prototypal inheritance is very powerful in its own right, it is important to know that there is a growing movement among developers, both within and outside of the JS community (Ex: [Composition in Golang](https://talks.golang.org/2012/splash.article#TOC_15.)), to shift away from inheritance in favor of object composition. 
-- Whether you choose to use prototypal inheritance, composition, or some combination of the two, you should __consider__ using factory functions, object literals, prototypes, Object.create(), Object.assign(), etc. while avoiding ES6 classes, constructors, and the `new` keyword altogether.
+- Whether you choose to use prototypal inheritance, composition, or some combination of the two, you should __consider using factory functions, object literals, prototypes, Object.create(), Object.assign(), etc.__ while avoiding ES6 classes, constructors, and the `new` keyword altogether.
 
 > If a feature is sometimes dangerous, and there is a better option, then always use the better option. 
 > &mdash; Douglas Crockford
@@ -103,7 +103,7 @@ Dan Abramov (creator of [react-hot-loader](https://github.com/gaearon/react-hot-
 
 [How to Use Classes and Sleep at Night](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4)
 
-I'm __not convinced__ that using ES6 class syntax in this fashion is the best __long term solution__ for React, and you should __be aware__ of the __alternatives__: __React.createClass()__, __[react-stampit](https://github.com/stampit-org/react-stampit)__, and __pure (stateless) functions__. However, Dan has established a solid, __reasonable set of guidelines__ to follow in the meantime. So, if you feel that you __must use ES6 classes__ to create React components, please __follow his lead__:
+I'm not convinced that using ES6 class syntax in this fashion is the best long term solution for React, and you should be aware of the alternatives: __React.createClass(), [react-stampit](https://github.com/stampit-org/react-stampit, and pure (stateless) functions__. However, Dan has established a solid, __reasonable set of guidelines__ to follow in the meantime. So, __if you you must use ES6 classes in React, please follow his lead__:
 
 __Key Points__
 - Resist making classes your public API.
@@ -118,7 +118,7 @@ __Recommendations__
 - In this case, you may only extend React.Component directly.
 - Give your feedback to the React team on the functional [state](https://github.com/reactjs/react-future/tree/master/07%20-%20Returning%20State) [proposals](https://github.com/reactjs/react-future/tree/master/09%20-%20Reduce%20State).
 
-With that said, we should think about why needing to use `class` and `extends` in such a limited fashion, in order to establish sane & maintainable practices for the specific purpose of creating a React Component (through 1-level deep inheritance), is necessary in the first place. It probably means that there should be a better solution and/or a better syntactical approach to solving this problem. I’d like to see a syntax focusing on what the conceptual thing actually is, i.e., a __component__, not a __class__… For example, why was __createClass()__ not originally named __createComponent()__?
+With that said, we should think about why needing to use `class` and `extends` in such a limited fashion, to establish sane & maintainable practices for the specific purpose of creating a React Component (through 1-level deep inheritance), is necessary in the first place. It probably means that there should be a better solution and/or a better syntactical approach to solving this problem. I’d like to see a syntax focusing on what the conceptual thing actually is, i.e., a __component__, not a __class__… For example, why was __createClass()__ not originally named __createComponent()__?
 
 Also, read Dan's previous article on composition:
 
@@ -159,7 +159,7 @@ Please, ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
 - Use the following format: `[Content Title](content link)`
-- New categories or improvements to the existing categorization are welcome. I would like to add a Tutorials/Examples section at some point. Feel free to get started on that if you have the time.
+- New categories or improvements to the existing categorization are welcome. 
 - The pull request and commit should have clear and useful titles.
 - Each section's list, after your addition, should be sorted alphabetically.
 
