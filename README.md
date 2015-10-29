@@ -14,8 +14,8 @@ Reverse-inspired by all of the awesome lists on GitHub, like [Awesome](https://g
 - [Videos](#videos)
 - [ES6 Classes in React](#es6-classes-in-react)
 - [People You Should Follow](#people-you-should-follow)
-- [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
+- [Contribution Guidelines](https://github.com/joshburgess/not-awesome-es6-classes/blob/master/CONTRIBUTING.md)
+- [License](https://github.com/joshburgess/not-awesome-es6-classes/blob/master/LICENSE.md)
 
 
 
