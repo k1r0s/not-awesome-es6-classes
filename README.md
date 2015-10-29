@@ -31,10 +31,10 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 
 - JavaScript is a class-free, object-oriented, & functional programming language. It eschews [classical inheritance](https://en.wikipedia.org/wiki/Class-based_programming) in favor of [prototypal inheritance](https://en.wikipedia.org/wiki/Prototype-based_programming). Although it is possible to emulate classical inheritance patterns in JS, classical inheritance is not built directly into the language, and many people believe prototypal inheritance to be a more flexible and freeing paradigm due to its less rigid nature. For more, first, read [this](http://www.crockford.com/javascript/inheritance.html). Then, read [this](http://javascript.crockford.com/prototypal.html).
 - The ES6 class syntax, constructors, the `new` keyword, etc. are ideas taken from the classical inheritance model to make programmers coming from languages like C++, Java, C#, etc. more comfortable and do not really belong in JavaScript. ES6 class syntax is essentially syntactic sugar that will end up obfuscating the true nature of JavaScript and confusing the next generation of programmers learning it.
-- While prototypal inheritance is very powerful in its own right, it is important to know that there is a growing movement among developers, both within and outside of the JS community (Ex: [Composition in Golang](https://talks.golang.org/2012/splash.article#TOC_15.)), to shift away from inheritance in favor of object composition. 
+- While prototypal inheritance is very powerful in its own right, it is important to know that there is a growing movement among developers, both within and outside of the JS community (Ex: [Composition in Golang](https://talks.golang.org/2012/splash.article#TOC_15.)), to shift away from inheritance in favor of object composition.
 - Whether you choose to use prototypal inheritance, composition, or some combination of the two, you should __consider using factory functions, object literals, prototypes, Object.create(), Object.assign(), etc.__ while avoiding ES6 classes, constructors, and the `new` keyword altogether.
 
-> If a feature is sometimes dangerous, and there is a better option, then always use the better option. 
+> If a feature is sometimes dangerous, and there is a better option, then always use the better option.
 > &mdash; Douglas Crockford
 
 
@@ -149,25 +149,3 @@ Also, read Dan's previous article on composition:
     - Medium: [@mpjme](https://medium.com/@mpjme)
     - Twitter: [@mpjme](https://twitter.com/@mpjme)
     - YouTube Channel: [mpjme](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-
-
-
-## Contribution Guidelines
-
-Please, ensure your pull request adheres to the following guidelines:
-
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make an individual pull request for each suggestion.
-- Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
-- Use the following format: `[Content Title](content link)`
-- New categories or improvements to the existing categorization are welcome. 
-- The pull request and commit should have clear and useful titles.
-- Each section's list, after your addition, should be sorted alphabetically.
-
-
-
-## License
-
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
