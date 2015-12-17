@@ -92,6 +92,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [Douglas Crockford: The Better Parts - JSConfUY 2014](https://www.youtube.com/watch?v=bo36MrBfTk4)
 - [Factory Functions in JavaScript](https://www.youtube.com/watch?v=ImwrezYhw4w)
 - [Fluent 2013 - Eric Elliott, "Classical Inheritance is Obsolete: How to Think in Prototypal OO"](https://www.youtube.com/watch?v=lKCCZTUx0sI)
+- [JavaScript Air Episode 01: Learning and Developing JavaScript](https://www.youtube.com/watch?v=uDtkEEIBsz4)
 - [Nordic.js 2014 • Douglas Crockford - The Better Parts](https://www.youtube.com/watch?v=PSGEjv3Tqo0)
 - [Source Decoded: Composition vs. Inheritance](https://www.youtube.com/watch?v=dYUZiJEy0JE)
 - [Source Decoded 3: Javascript -- Prototypes, Prototypal Inheritance Done Right](https://www.youtube.com/watch?v=Yvf_kUBZmXg)
