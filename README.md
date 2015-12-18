@@ -134,7 +134,7 @@ Also, read Dan's previous article on composition:
 - Ashley G. Williams
     - Github: [ashleygwilliams](https://github.com/ashleygwilliams)
     - Medium: [@ag_dubs](https://medium.com/@ag_dubs)
-    - Twitter: [@ag_dubs](https://medium.com/@ag_dubs)
+    - Twitter: [@ag_dubs](https://twitter.com/@ag_dubs)
 - Dan Abramov
     - GitHub: [gaeron](https://github.com/gaearon)
     - Medium: [@dan_abramov](https://medium.com/@dan_abramov)
