@@ -9,10 +9,11 @@ Reverse-inspired by all of the awesome lists on GitHub, like [Awesome](https://g
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Too Long; Didn't Read](#tldr)
+- [TL;DR](#tldr)
 - [Reading](#reading)
 - [Videos](#videos)
 - [ES6 Classes in React](#es6-classes-in-react)
+- [Don't Want to Use ES6 Classes in React?](#dont-want-to-use-es6-classes-in-react)
 - [People You Should Follow](#people-you-should-follow)
 - [Contribution Guidelines](https://github.com/joshburgess/not-awesome-es6-classes/blob/master/CONTRIBUTING.md)
 - [License](https://github.com/joshburgess/not-awesome-es6-classes/blob/master/LICENSE.md)
@@ -25,7 +26,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 
 
 
-## TLDR
+## TL;DR
 
 `DISCLAIMER: This is an opinionated summary of the core points made throughout the linked content. I am only providing this as a convenience for people who requested it. If you're looking for technical depth, skip this section. Please, take the time to dive into the content before drawing any conclusions.`
 
@@ -129,7 +130,7 @@ Also, read Dan's previous article on composition:
 
 ## Don't Want to Use ES6 Classes in React?
 
-Currently, it is not very practical to completely avoid using ES6 classes in React due to the fact that functional components lack the lifecycle methods of ES6 class components (or the deprecated `createClass` factory function). However, it is possible to avoid them by using Andrew Clark's [recompose](https://github.com/acdlite/recompose), a React utility belt for function components and higher-order components. Using recompose, you are able to use methods like `componentDidMount`, `shouldComponentUpdate`, etc. with functional components via the `lifecycle` helper utility. However, `lifecycle` currently uses React's `createClass` under the hood, and many of recompose's other API methods are implemented using classes... So, you will probably still be using them if you use recompose in your project, depending on the specific methods you are using. However, they will be abstracted away from the code __you__ are writing, which you might still find nice enough to consider.
+Currently, it is not all that practical to completely avoid using ES6 classes in React due to the fact that functional components lack the lifecycle methods of ES6 class components (or the deprecated `createClass` factory function). However, it is possible to avoid them by using Andrew Clark's [recompose](https://github.com/acdlite/recompose), a React utility belt for function components and higher-order components. Using recompose, you are able to use methods like `componentDidMount`, `shouldComponentUpdate`, etc. with functional components via the `lifecycle` helper utility. However, `lifecycle` currently uses React's `createClass` under the hood, and many of recompose's other API methods are implemented using classes... So, you will probably still be using them if you use recompose in your project, depending on the specific methods you are using. However, they will be abstracted away from the code __you__ are writing, which you might still find nice enough to consider.
 
 Alternatively, if you are not 100% married to React, look into Dominic Gannaway's [Inferno](https://github.com/trueadm/inferno), which Dominic describes as "an extremely fast, React-like JavaScript library for building modern user interfaces." Although Inferno offers ES6 class style components through the optional [inferno-component](https://www.npmjs.com/package/inferno-component) package, many users find they don't need them, because the library also offers the [Hooks](https://github.com/trueadm/inferno#hooks) API, which gives functional components access to all of the important lifecycle events. Some members of the React team have suggested that React's functional components might one day receive a similar feature, but this is not a top priority for them at the moment. If you choose to check out Inferno but still want access to the wealth of 3rd party React components out there, look into [inferno-compat](https://github.com/trueadm/inferno/tree/59fb20b106307656e04f0f153d28000da040cc70/packages/inferno-compat), a module which provides a compatibility layer that makes React-based modules work with Inferno without any code changes.
 
