@@ -14,6 +14,7 @@ Reverse-inspired by all of the awesome lists on GitHub, like [Awesome](https://g
 - [Videos](#videos)
 - [ES6 Classes in React](#es6-classes-in-react)
 - [Don't Want to Use ES6 Classes in React?](#dont-want-to-use-es6-classes-in-react)
+- [Addendum (About Functional Programming)](#addendum-about-functional-programming)
 - [People You Should Follow](#people-you-should-follow)
 - [Contribution Guidelines](https://github.com/joshburgess/not-awesome-es6-classes/blob/master/CONTRIBUTING.md)
 - [License](https://github.com/joshburgess/not-awesome-es6-classes/blob/master/LICENSE.md)
@@ -136,6 +137,10 @@ Currently, it is not all that practical to completely avoid using ES6 classes in
 Alternatively, if you are not 100% married to React, look into Dominic Gannaway's [Inferno](https://github.com/trueadm/inferno), which Dominic describes as "an extremely fast, React-like JavaScript library for building modern user interfaces." Although Inferno offers ES6 class style components through the optional [inferno-component](https://www.npmjs.com/package/inferno-component) package, many users find they don't need them, because the library also offers the [Hooks](https://github.com/trueadm/inferno#hooks) API, which gives functional components access to all of the important lifecycle events. Some members of the React team have suggested that React's functional components might one day receive a similar feature, but this is not a top priority for them at the moment. If you choose to check out Inferno but still want access to the wealth of 3rd party React components out there, look into [inferno-compat](https://github.com/trueadm/inferno/tree/59fb20b106307656e04f0f153d28000da040cc70/packages/inferno-compat), a module which provides a compatibility layer that makes React-based modules work with Inferno without any code changes.
 
 Otherwise, if you are willing to abandon React compatibility & a React-like API altogether, look into [snabbdom](https://github.com/paldepind/snabbdom), a virtual DOM library focused on simplicity, modularity, & performance. Like Inferno, Snabbdom is extremely fast and features a powerful [hooks API](https://github.com/paldepind/snabbdom#hooks). Also, if you are a fan of JSX, you can keep using it via [snabbdom-jsx](https://github.com/yelouafi/snabbdom-jsx). You may be surprised how similar what you can accomplish when using a minimal virtual DOM library is to when using a larger view library like React, especially if you are already heavily using a state container like Redux. 
+
+## Addendum (About Functional Programming)
+
+Since writing this not-awesome-list I've heavily delved into learning functional programming core concepts & principles, and, honestly, I don't really use prototypal inheritance or object composition anymore either, because I really believe FP is the way to go. However, I do still think that if you're going to do OOP in JS using prototypes and the simple, but powerful, OLOO (Objects Linked to Other Objects) concept, and object composition is a much better idea than emulating Java with class syntax, the constructor pattern, & inheritance. Embrace simple! object-oriented composition is better than classical inheritance, but functional composition is even better.
 
 ## People You Should Follow
 
