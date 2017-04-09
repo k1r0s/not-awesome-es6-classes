@@ -173,44 +173,60 @@ Since writing this not-awesome-list I've heavily delved into learning functional
 ### Awesome Functional Programming in JavaScript People
 - André Medeiros (aka André Staltz)
     - GitHub: [@staltz](https://github.com/staltz)
+    - Twitter: [@andrestaltz](https://twitter.com/andrestaltz)
 
 - Brian Cavalier
     - GitHub: [@briancavalier](https://github.com/briancavalier)
+    - Twitter: [@briancavalier](https://twitter.com/briancavalier)
 
 - Brian Lonsdorf
     - GitHub: [@DrBoolean](https://github.com/DrBoolean)
+    - Twitter: [@drboolean](https://twitter.com/drboolean)
 
 - Buzz de Cafe
     - GitHub: [@buzzdecafe](https://github.com/buzzdecafe)
+    - Twitter: [@buzzdecafe](https://twitter.com/buzzdecafe)
+
+ - Christoph Hermann
+    - GitHub: [@stoeffel](https://github.com/stoeffel)
+    - Twitter: [@schtoeffel](https://twitter.com/schtoeffel)
 
 - David Chambers
     - GitHub: [@davidchambers](https://github.com/davidchambers)
+    - Twitter: [@davidchambers](https://twitter.com/davidchambers)
 
 - David Chase
     - GitHub: [@davidchase](https://github.com/davidchase)
+    - Twitter: [@lazyeval](https://twitter.com/lazyeval)
 
 - Ian Hofmann-Hicks
     - GitHub: [@evilsoft](https://github.com/evilsoft)
+    - Twitter: [@evilsoft](https://twitter.com/evilsoft)
 
 - James Forbes
     - GitHub: [@JAForbes](https://github.com/JAForbes)
+    - Twitter: [@james_a_forbes](https://twitter.com/james_a_forbes)
 
 - James Sinclair
     - GitHub: [@jrsinclair](https://github.com/jrsinclair)
+    - Twitter: [@jrsinclair](https://twitter.com/jrsinclair)
 
 - Jon Gold
     - GitHub: [@jongold](https://github.com/jongold)
+    - Twitter: [@jongold](https://twitter.com/jongold)
 
 - Roman Pominov
     - GitHub: [@rpominov](https://github.com/rpominov)
+    - Twitter: [@rpominov](https://twitter.com/rpominov)
 
 - Simon Friis Vindum
     - GitHub: [@paldepind](https://github.com/paldepind)
+    - Twitter: [@paldepind](https://twitter.com/paldepind)
 
 - Tom Harding
     - GitHub: [@i-am-tom](https://github.com/i-am-tom)
+    - Twitter: [@am_i_tom](https://twitter.com/am_i_tom)
 
 - Tyler Steinberger
     - Github: [@TylorS](https://github.com/TylorS)
-
-More details on these people coming soon.
+    - Twitter: [@TylorS167](https://twitter.com/TylorS167)
