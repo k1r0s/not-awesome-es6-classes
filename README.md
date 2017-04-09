@@ -76,6 +76,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [Design Patterns: Elements of Reusable Object-Oriented Software](http://www.amazon.com/gp/product/0201633612)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
+- [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 - [Programming JavaScript Applications](http://shop.oreilly.com/product/0636920033141.do)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
     - [You Don't Know JS: Up & Going](http://shop.oreilly.com/product/0636920039303.do)
@@ -173,20 +174,23 @@ Since writing this not-awesome-list I've heavily delved into learning functional
 ### Awesome Functional Programming in JavaScript People
 - Ali Sharif
     - GitHub: [@busypeoples](https://github.com/busypeoples)
-    - Twitter: [@sharifsbeat](https://twitter.com/sharifsbeat)
     - Medium: [@sharifsbeat](https://medium.com/@sharifsbeat)
+    - Twitter: [@sharifsbeat](https://twitter.com/sharifsbeat)
 - André Medeiros (aka André Staltz)
     - GitHub: [@staltz](https://github.com/staltz)
     - Twitter: [@andrestaltz](https://twitter.com/andrestaltz)
+    - Website: [staltz.com/](https://staltz.com/)
 - Brian Cavalier
     - GitHub: [@briancavalier](https://github.com/briancavalier)
     - Twitter: [@briancavalier](https://twitter.com/briancavalier)
 - Brian Lonsdorf
     - GitHub: [@DrBoolean](https://github.com/DrBoolean)
+    - Medium: [@drboolean](https://medium.com/@drboolean)
     - Twitter: [@drboolean](https://twitter.com/drboolean)
 - Buzz de Cafe
     - GitHub: [@buzzdecafe](https://github.com/buzzdecafe)
     - Twitter: [@buzzdecafe](https://twitter.com/buzzdecafe)
+    - Website: [buzzdecafe.com](http://buzzdecafe.github.io/)
  - Christoph Hermann
     - GitHub: [@stoeffel](https://github.com/stoeffel)
     - Twitter: [@schtoeffel](https://twitter.com/schtoeffel)
@@ -199,15 +203,21 @@ Since writing this not-awesome-list I've heavily delved into learning functional
 - Ian Hofmann-Hicks
     - GitHub: [@evilsoft](https://github.com/evilsoft)
     - Twitter: [@evilsoft](https://twitter.com/evilsoft)
+    - Youtube: [TheEvilSoft](https://www.youtube.com/user/TheEvilSoft)
 - James Forbes
     - GitHub: [@JAForbes](https://github.com/JAForbes)
     - Twitter: [@james_a_forbes](https://twitter.com/james_a_forbes)
+    - Website: [james-forbes.com](https://james-forbes.com/?/)
 - James Sinclair
     - GitHub: [@jrsinclair](https://github.com/jrsinclair)
     - Twitter: [@jrsinclair](https://twitter.com/jrsinclair)
+    - Website: [jrsinclair.com](http://jrsinclair.com/)
 - Jon Gold
     - GitHub: [@jongold](https://github.com/jongold)
     - Twitter: [@jongold](https://twitter.com/jongold)
+- Luke Westby
+    - GitHub: [@lukewestby](https://github.com/lukewestby)
+    - Twitter: [@luke_dot_js](https://twitter.com/luke_dot_js)
 - Roman Pominov
     - GitHub: [@rpominov](https://github.com/rpominov)
     - Twitter: [@rpominov](https://twitter.com/rpominov)
@@ -217,10 +227,10 @@ Since writing this not-awesome-list I've heavily delved into learning functional
 - Tom Harding
     - GitHub: [@i-am-tom](https://github.com/i-am-tom)
     - Twitter: [@am_i_tom](https://twitter.com/am_i_tom)
-- Tyler Steinberger
+- Tylor Steinberger
     - Github: [@TylorS](https://github.com/TylorS)
     - Twitter: [@TylorS167](https://twitter.com/TylorS167)
 - Yassine Elouafi
     - GitHub: [@yelouafi](https://github.com/yelouafi)
-    - Twitter: [@YassineElouafi2](https://twitter.com/YassineElouafi2)
     - Medium: [@yelouafi](https://medium.com/@yelouafi)
+    - Twitter: [@YassineElouafi2](https://twitter.com/YassineElouafi2)
