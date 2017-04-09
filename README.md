@@ -210,7 +210,7 @@ Since writing this not-awesome-list I've heavily delved into learning functional
 - Tom Harding
     - GitHub: [@i-am-tom](https://github.com/i-am-tom)
 
-- Tyler Steinberger 
+- Tyler Steinberger
     - Github: [@TylorS](https://github.com/TylorS)
 
 More details on these people coming soon.
