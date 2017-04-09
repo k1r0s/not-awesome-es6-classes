@@ -171,6 +171,10 @@ Since writing this not-awesome-list I've heavily delved into learning functional
     - YouTube Channel: [mpjme](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
 ### Awesome Functional Programming in JavaScript People
+- Ali Sharif
+    - GitHub: [@busypeoples](https://github.com/busypeoples)
+    - Twitter: [@sharifsbeat](https://twitter.com/sharifsbeat)
+    - Medium: [@sharifsbeat](https://medium.com/@sharifsbeat)
 - André Medeiros (aka André Staltz)
     - GitHub: [@staltz](https://github.com/staltz)
     - Twitter: [@andrestaltz](https://twitter.com/andrestaltz)
