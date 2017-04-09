@@ -75,6 +75,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 
 - [Design Patterns: Elements of Reusable Object-Oriented Software](http://www.amazon.com/gp/product/0201633612)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [JavaScript Allongé](https://leanpub.com/javascriptallongesix/) 
 - [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 - [Programming JavaScript Applications](http://shop.oreilly.com/product/0636920033141.do)
