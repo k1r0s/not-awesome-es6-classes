@@ -220,3 +220,7 @@ Since writing this not-awesome-list I've heavily delved into learning functional
 - Tyler Steinberger
     - Github: [@TylorS](https://github.com/TylorS)
     - Twitter: [@TylorS167](https://twitter.com/TylorS167)
+- Yassine Elouafi
+    - GitHub: [@yelouafi](https://github.com/yelouafi)
+    - Twitter: [@YassineElouafi2](https://twitter.com/YassineElouafi2)
+    - Medium: [@yelouafi](https://medium.com/@yelouafi)
