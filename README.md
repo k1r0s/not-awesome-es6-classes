@@ -144,6 +144,7 @@ Since writing this not-awesome-list I've heavily delved into learning functional
 
 ## People You Should Follow
 
+### The People Who Initially Inspired Me to Create This Repo
 - Ashley G. Williams
     - Github: [ashleygwilliams](https://github.com/ashleygwilliams)
     - Medium: [@ag_dubs](https://medium.com/@ag_dubs)
@@ -168,3 +169,7 @@ Since writing this not-awesome-list I've heavily delved into learning functional
     - Medium: [@mpjme](https://medium.com/@mpjme)
     - Twitter: [@mpjme](https://twitter.com/@mpjme)
     - YouTube Channel: [mpjme](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+
+### People to Follow to Learn More About Functional Programming in JavaScript
+
+This section is coming soon.
