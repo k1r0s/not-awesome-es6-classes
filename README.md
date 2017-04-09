@@ -146,7 +146,7 @@ Since writing this not-awesome-list I've heavily delved into learning functional
 
 ### The People Who Initially Inspired Me to Create This Repo
 - Ashley G. Williams
-    - Github: [ashleygwilliams](https://github.com/ashleygwilliams)
+    - GitHub: [ashleygwilliams](https://github.com/ashleygwilliams)
     - Medium: [@ag_dubs](https://medium.com/@ag_dubs)
     - Twitter: [@ag_dubs](https://twitter.com/@ag_dubs)
 - Dan Abramov
@@ -170,6 +170,47 @@ Since writing this not-awesome-list I've heavily delved into learning functional
     - Twitter: [@mpjme](https://twitter.com/@mpjme)
     - YouTube Channel: [mpjme](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
-### People to Follow to Learn More About Functional Programming in JavaScript
+### Awesome Functional Programming in JavaScript People
+- André Medeiros (aka André Staltz)
+    - GitHub: [@staltz](https://github.com/staltz)
 
-This section is coming soon.
+- Brian Cavalier
+    - GitHub: [@briancavalier](https://github.com/briancavalier)
+
+- Brian Lonsdorf
+    - GitHub: [@DrBoolean](https://github.com/DrBoolean)
+
+- Buzz de Cafe
+    - GitHub: [@buzzdecafe](https://github.com/buzzdecafe)
+
+- David Chambers
+    - GitHub: [@davidchambers](https://github.com/davidchambers)
+
+- David Chase
+    - GitHub: [@davidchase](https://github.com/davidchase)
+
+- Ian Hofmann-Hicks
+    - GitHub: [@evilsoft](https://github.com/evilsoft)
+
+- James Forbes
+    - GitHub: [@JAForbes](https://github.com/JAForbes)
+
+- James Sinclair
+    - GitHub: [@jrsinclair](https://github.com/jrsinclair)
+
+- Jon Gold
+    - GitHub: [@jongold](https://github.com/jongold)
+
+- Roman Pominov
+    - GitHub: [@rpominov](https://github.com/rpominov)
+
+- Simon Friis Vindum
+    - GitHub: [@paldepind](https://github.com/paldepind)
+
+- Tom Harding
+    - GitHub: [@i-am-tom](https://github.com/i-am-tom)
+
+- Tyler Steinberger 
+    - Github: [@TylorS](https://github.com/TylorS)
+
+More details on these people coming soon.
