@@ -143,7 +143,7 @@ Otherwise, if you are willing to abandon React compatibility & a React-like API 
 
 ## Addendum (About Functional Programming)
 
-Since writing this not-awesome-list I've heavily delved into learning functional programming core concepts & principles, and, honestly, I don't really use prototypal inheritance or object composition anymore either, because I really believe FP is the way to go. However, I do still think that if you're going to do OOP in JS using prototypes and the simple, but powerful, OLOO (Objects Linked to Other Objects) concept, and object composition is a much better idea than emulating Java with class syntax, the constructor pattern, & inheritance. Embrace simple! OO composition is better than classical inheritance by a long shot, but functional composition is even better.
+Since writing this not-awesome-list I've really jumped into learning functional programming core concepts/principles, and, honestly, I don't really use prototypal inheritance or object composition anymore either, because I really believe FP is the way to go. However, I do still think that if you're going to do OOP in JS using prototypes and the simple, but powerful, OLOO (Objects Linked to Other Objects) concept, and object composition is a much better idea than emulating Java with class syntax, the constructor pattern, & inheritance. Embrace simple! OO composition is better than classical inheritance by a long shot, but functional composition is even better.
 
 ## People You Should Follow
 
