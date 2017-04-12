@@ -174,6 +174,8 @@ Since writing this not-awesome-list I've heavily delved into learning functional
     - YouTube Channel: [mpjme](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
 ### Awesome Functional Programming in JavaScript People
+- Aldwin Vlasblom
+    - GitHub: [@Avaq](https://github.com/Avaq)
 - Ali Sharif
     - GitHub: [@busypeoples](https://github.com/busypeoples)
     - Medium: [@sharifsbeat](https://medium.com/@sharifsbeat)
@@ -221,6 +223,8 @@ Since writing this not-awesome-list I've heavily delved into learning functional
 - Jon Gold
     - GitHub: [@jongold](https://github.com/jongold)
     - Twitter: [@jongold](https://twitter.com/jongold)
+- Juan Soto
+    - GitHub: [@sotojuan](https://github.com/sotojuan)
 - Luke Westby
     - GitHub: [@lukewestby](https://github.com/lukewestby)
     - Twitter: [@luke_dot_js](https://twitter.com/luke_dot_js)
