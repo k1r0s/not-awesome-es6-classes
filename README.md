@@ -181,7 +181,7 @@ Since writing this not-awesome-list I've heavily delved into learning functional
 - André Medeiros (aka André Staltz)
     - GitHub: [@staltz](https://github.com/staltz)
     - Twitter: [@andrestaltz](https://twitter.com/andrestaltz)
-    - Website: [staltz.com/](https://staltz.com/)
+    - Website: [staltz.com](https://staltz.com/)
 - Brian Cavalier
     - GitHub: [@briancavalier](https://github.com/briancavalier)
     - Twitter: [@briancavalier](https://twitter.com/briancavalier)
@@ -202,6 +202,10 @@ Since writing this not-awesome-list I've heavily delved into learning functional
 - David Chase
     - GitHub: [@davidchase](https://github.com/davidchase)
     - Twitter: [@lazyeval](https://twitter.com/lazyeval)
+- Gleb Bahmutov
+    - GitHub: [@bahmutov](https://github.com/bahmutov)
+    - Twitter: [@bahmutov](https://twitter.com/bahmutov)
+    - Website: [glebbahmutov.com](https://glebbahmutov.com/)
 - Ian Hofmann-Hicks
     - GitHub: [@evilsoft](https://github.com/evilsoft)
     - Twitter: [@evilsoft](https://twitter.com/evilsoft)
