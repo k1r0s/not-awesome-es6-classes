@@ -228,6 +228,10 @@ Since writing this not-awesome-list I've really jumped into learning functional 
 - Luke Westby
     - GitHub: [@lukewestby](https://github.com/lukewestby)
     - Twitter: [@luke_dot_js](https://twitter.com/luke_dot_js)
+- Reginald Braithwaite
+    - GitHub: [@raganwald](https://github.com/raganwald)
+    - Twitter: [@raganwald](https://twitter.com/raganwald)
+    - Website: [raganwald.com](http://raganwald.com/)
 - Roman Pominov
     - GitHub: [@rpominov](https://github.com/rpominov)
     - Twitter: [@rpominov](https://twitter.com/rpominov)
