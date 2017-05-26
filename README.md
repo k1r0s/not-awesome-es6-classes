@@ -60,6 +60,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [JS Objects -- Part 2: Distractions](http://davidwalsh.name/javascript-objects-distractions)
 - [JS Objects -- Part 3: De"construct"ion](http://davidwalsh.name/javascript-objects-deconstruction)
 - [Myth: JavaScript Needs Classes](http://www.2ality.com/2011/11/javascript-classes.html)
+- [AOP in ES5 -- an alternative to ES6 classes and Aspect Oriented technique explanation](https://hackernoon.com/aspect-oriented-programming-in-javascript-es5-typescript-d751dda576d0)
 - [Prototypal Inheritance in JavaScript (Douglas Crockford)](http://javascript.crockford.com/prototypal.html)
 - [Prototypes Are Not Classes](http://raganwald.com/2014/01/19/prototypes-are-not-classes.html)
 - [The Many Talents of JavaScript for Generalizing Role Oriented Programming Approaches Like Traits and Mixins](http://peterseliger.blogspot.de/2014/04/the-many-talents-of-javascript.html#the-many-talents-of-javascript)
